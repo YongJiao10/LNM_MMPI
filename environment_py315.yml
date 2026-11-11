@@ -1,0 +1,10 @@
+# Remote Mac default tools. Local Mac remains on its existing py314 environment.
+name: py315
+channels:
+  - conda-forge
+dependencies:
+  - python=3.15.2
+  - pip
+  - h5py=3.16.0=nompi_py315*
+  - pip:
+      - -r requirements_py315_tools.txt

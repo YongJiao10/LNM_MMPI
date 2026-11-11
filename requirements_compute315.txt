@@ -1,0 +1,13 @@
+# Latest stable direct numerical dependencies checked on 2026-10-30.
+# Separate Python 3.15 candidate runtime; never install into runtime/.
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+pandas==3.1.0
+cca-zoo==4.0.1
+tensorly==0.10.0
+torch==2.15.0
+nilearn==0.14.1
+statsmodels==0.15.0
+pingouin==0.7.0
+nibabel==5.4.2

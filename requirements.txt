@@ -1,0 +1,29 @@
+# Core numerical and scientific computing
+numpy>=2.0.0
+scipy>=1.14.0
+scikit-learn>=1.5.0
+pandas>=2.2.0
+
+# Regularized Canonical Correlation Analysis
+cca-zoo==4.0.1
+tensorly>=0.8.0
+
+# Neuroimaging and surface analysis
+nibabel>=5.2.0
+nilearn>=0.10.0
+abagen>=0.1.3
+brainspace>=0.1.22
+neuromaps>=0.0.5
+
+# Statistical modeling and bioinformatics
+statsmodels>=0.14.0
+pingouin>=0.5.4
+gseapy>=1.1.0
+torch>=2.0.0
+
+# Visualization and utilities
+matplotlib>=3.8.0
+seaborn>=0.13.0
+pypdf>=4.0.0
+tqdm>=4.66.0
+joblib>=1.3.0
